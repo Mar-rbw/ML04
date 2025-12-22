@@ -1,0 +1,8 @@
+[core]
+    remote = storage
+['remote "gdrive-remote"']
+    url = gdrive://1oav_28YOKzSfZPzldcJCemyda_lV9nkE
+    gdrive_client_id = 64685754570-beml0vv155lsjbi2j46ccnk8tfiqs5t6.apps.googleusercontent.com
+    gdrive_client_secret = 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
+['remote "storage"']
+    url = gs://ml04-87b10.firebasestorage.app
